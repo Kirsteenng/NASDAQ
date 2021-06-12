@@ -1,10 +1,7 @@
 # About
+This project aims to predict stock price using sentiment analysis on articles describing each stock ticker. The articles are scraped from CNBC and Martketwatch, two big finance stories providers. 
 
-# Goal
-
-# Process
-
-# Result
+# Depositary details
 
 1. train_test_split.py is the script that separates the original results which are in the Labelling result folder (I did not include it here because the files are big)
 
